@@ -1,0 +1,1 @@
+puppeteer-clip-element
